@@ -1,12 +1,10 @@
 ## Welcome to Healtheta
 
-You can use the [editor on GitHub](https://github.com/healtheta/healtheta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Healtheta is a Fast Healthcare Interoperability platform for your modern web and mobile healthcare applications, patient engagement solutions, telemedicine platforms, care coordination systems, healthcare data analytics products, cloud electronic health records, clinical data repositories, and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Anatomy
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, access control & security modules, terminology servers, subscriptions, cloud infrastructure, and an ecosystem of plugins to meet your unique healthcare application development needs.
 
 ```markdown
 Syntax highlighted code block
