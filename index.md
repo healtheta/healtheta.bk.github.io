@@ -43,12 +43,10 @@ Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHI
 
 | Module        | Description          | Detail |
 |:-------------|:------------------|:------|
-| Patient           | Patient API | [here](./another-page.html).  |
-| Pracitioner | Practitioner API   | [here](./another-page.html).  |
-| Organization           | Organization API     | [here](./another-page.html).   |
-| Condition          | Condition API | [here](./another-page.html). |
-| Observation          | Observation API | [here](./another-page.html). |
-| Healthcare Service          | Observation API | [here](./another-page.html). |
+| CodeSystem           | CodeSystem API | [here](./another-page.html).  |
+| ValueSet | Value set API   | [here](./another-page.html).  |
+| Consent           | Consent API     | [here](./another-page.html).   |
+
 
 ## Base API
 
@@ -57,31 +55,34 @@ Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHI
 | Patient           | Patient API | [here](./another-page.html).  |
 | Pracitioner | Practitioner API   | [here](./another-page.html).  |
 | Organization           | Organization API     | [here](./another-page.html).   |
-| Condition          | Condition API | [here](./another-page.html). |
-| Observation          | Observation API | [here](./another-page.html). |
-| Healthcare Service          | Observation API | [here](./another-page.html). |
+| HealthcareService          | HealthcareService API | [here](./another-page.html). |
+| Appointment          | Appointment API | [here](./another-page.html). |
+| Schedule          | Schedule API | [here](./another-page.html). |
+| Slot          | Slot API | [here](./another-page.html). |
+| Encounter          | Encounter API | [here](./another-page.html). |
 
 ## Clinical API
 
 | Module        | Description          | Detail |
 |:-------------|:------------------|:------|
-| Patient           | Patient API | [here](./another-page.html).  |
-| Pracitioner | Practitioner API   | [here](./another-page.html).  |
-| Organization           | Organization API     | [here](./another-page.html).   |
-| Condition          | Condition API | [here](./another-page.html). |
+| AllergyIntolerence           | AllergyIntolerence API | [here](./another-page.html).  |
+| Condition | Condition API   | [here](./another-page.html).  |
+| Procedure           | Procedure API     | [here](./another-page.html).   |
 | Observation          | Observation API | [here](./another-page.html). |
-| Healthcare Service          | Observation API | [here](./another-page.html). |
+| DiagnosticReport          | DiagnosticReport API | [here](./another-page.html). |
+| MedicationRequest          | MedicationRequest API | [here](./another-page.html). |
+| Medication          | Medication API | [here](./another-page.html). |
+| MedicationStatement          | MedicationStatement API | [here](./another-page.html). |
+| CarePlan          | CarePlan API | [here](./another-page.html). |
 
 ## Financial API
 
 | Module        | Description          | Detail |
 |:-------------|:------------------|:------|
-| Patient           | Patient API | [here](./another-page.html).  |
-| Pracitioner | Practitioner API   | [here](./another-page.html).  |
-| Organization           | Organization API     | [here](./another-page.html).   |
-| Condition          | Condition API | [here](./another-page.html). |
-| Observation          | Observation API | [here](./another-page.html). |
-| Healthcare Service          | Observation API | [here](./another-page.html). |
+| Account           | Account API | [here](./another-page.html).  |
+| Coverage | Coverage API   | [here](./another-page.html).  |
+| Claim           | Claim API     | [here](./another-page.html).   |
+| PaymentNotice          | PaymentNotice API | [here](./another-page.html). |
 
 
 
