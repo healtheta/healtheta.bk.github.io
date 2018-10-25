@@ -4,7 +4,7 @@ Healtheta is a Fast Healthcare Interoperability platform for your modern web and
 
 ## Anatomy
 
-Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, access control & security modules, Reference Application Moduels and Authorative activity ledger to meet your unique healthcare application development needs.
+Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Server, Reference Applications  and irreversible blockchain based transaction/audit ledger to meet your unique healthcare application development needs.
 
 ![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
@@ -14,15 +14,19 @@ FHIP Core is built on the notion of picoservices; We would like to take pride in
 ### Edge Gateway
 If your system consists of multiple services, you can use a unified access layer to manage security and routing between them.
 
-### Consent Directive Management 
+### Privacy and Security Server
 Our Consent Directive Management Solution enables patients  to determine through an online secure consent process, which health information they would like to share and not share with their primary and speciality health care providers. This has been developed keeping following in mind,
 - Able to make meaningful choices to share their protected behavioral healthcare information
 - Confirms to standards and procedures practiced throughout the world
 - Give control of health information exchange in the hands of the person who has the right to decide who can access his/her data 
 
-### Security And Access Control
 OAuth 2.0, OpenID Connect and flexible security rules to control user access to healthcare application data.
 
+* * *
+
+### Security And Access Control
+
+OAuth 2.0, OpenID Connect and flexible security rules to control user access to healthcare application data.
 
 
 
