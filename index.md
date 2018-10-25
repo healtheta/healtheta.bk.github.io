@@ -23,18 +23,34 @@ HealTheta's vision of substitutable healthcare applications holds many benefits 
 
 # Architecture
 
-Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
+From Architecture and Design perspective we focused on following factors which affects the system configuration, performance , quality ,privacy and security as the major architecture design drivers of a scalable secure health care services platform.
+
+- It should be able to host on a multi-tenant SAAS platform
+- Only Authorized applications and users should access the health care service
+- It should be client agnostic; As it should support access over all available client access verticals, PC, mobile and tablets
+- It should be able to share resource based on a consent directive management model
+- And last but not the least, It should be easy to integrate and easier to enable multi-tude of agnostic applicatinos around all available horizontals.
+
+The requirements of health care service platform include CDS services, order entry and display, immunization management, service availability checking,account management, patient information management, and appointments/admission scheduling for small- and mid-sized hospitals and clinical data assesment and analytics.
 
 ![Branching](https://user-images.githubusercontent.com/43714632/47506914-b6e1b100-d88e-11e8-9c59-8a9531a79412.jpg)
 
 ## Resource Engine
-Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
+The Resource Engine is built on pico-services architecture on top of micro-service granularity. The entire design and development of resource engine is built keeping in security and privacy in mind. We believe in building security from ground up than building security around it. To facilate security from ground up we have used following modern hype factors in to our design
+- Object level security granularity ( pico-services)
+- Consent based acces management in-built within each resources
+- Edge-Gateway to provide additional higher level of security and routing
+- Granual management of access on object level
 
 ## Privacy & Security Engine
-Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
+Privacy and Security Engine provide basic security services for our resource and intelligence engine. It is encompassed of three components. Consent directive management microservice allows patients to determine, through an online consent process, which health information they would like to share and not share with their primary and specialty health care providers. Consent Dirctive Management service is built keeping in following in mind,
+- Developed to meet the need for patients to have meaningful choices to share their protected behavioral healthcare information
+- Should be able to integrate with existing electronic health record (EHR) and health information exchange (HIE) systems using interoperability standards
+- Supports federal and state requirements related to protected health information, such as 42 CFR Part 2
+- Puts control of health information exchange in the hands the person who has the right to decide who has access to his or her data: the patient
 
 ## Inteligence Engine
-Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
+###Comming Soon!
 
 * * *
 
