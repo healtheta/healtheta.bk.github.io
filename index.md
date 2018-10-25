@@ -52,10 +52,10 @@ Consent directive management microservice allows patients to determine, through 
 - Puts control of health information exchange in the hands the person who has the right to decide who has access to his or her data: the patient
 
 ### Identity & Access Control Service
-<TODO>
+
 
 ### Redact & Anonymity Service
-<TODO>
+
 
 ## Inteligence Engine
 
