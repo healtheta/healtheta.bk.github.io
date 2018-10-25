@@ -1,10 +1,39 @@
-## Welcome to Healtheta
+# Introduction
 
 Healtheta is a Fast Healthcare Interoperability platform for your modern web and mobile healthcare applications, patient engagement solutions, telemedicine platforms, care coordination systems, healthcare data analytics products, cloud electronic health records, clinical data repositories, and more.
 
-### Anatomy
+## Anatomy
 
-Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, access control & security modules, terminology servers, subscriptions, cloud infrastructure, and an ecosystem of plugins to meet your unique healthcare application development needs.
+Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, access control & security modules, Reference Application Moduels and Authorative activity ledger to meet your unique healthcare application development needs.
+
+### FHIP Core
+FHIP Core is built on the notion of picoservices; We would like to take pride in introducing the concept of picoservices on top of microservices architecutre. This enables us to intrdoduce fine grained security and analytical feature in-built from ground up of the design process. 
+
+### Edge Gateway
+If your system consists of multiple services, you can use a unified access layer to manage security and routing between them.
+
+### Consent Directive Management 
+Our Consent Directive Management Solution enables patients  to determine through an online secure consent process, which health information they would like to share and not share with their primary and speciality health care providers. This has been developed keeping following in mind,
+- Able to make meaningful choices to share their protected behavioral healthcare information
+- Confirms to standards and procedures practiced throughout the world
+- Give control of health information exchange in the hands of the person who has the right to decide who can access his/her data 
+
+### Security And Access Control
+OAuth 2.0, OpenID Connect and flexible security rules to control user access to healthcare application data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
