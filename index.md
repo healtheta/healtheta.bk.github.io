@@ -14,7 +14,7 @@ FHIP Core is built on the notion of picoservices; We would like to take pride in
 ### Edge Gateway
 If your system consists of multiple services, you can use a unified access layer to manage security and routing between them.
 
-### Privacy and Security Server
+### Healthcare P & S Platform
 Our Consent Directive Management Solution enables patients  to determine through an online secure consent process, which health information they would like to share and not share with their primary and speciality health care providers. This has been developed keeping following in mind,
 - Able to make meaningful choices to share their protected behavioral healthcare information
 - Confirms to standards and procedures practiced throughout the world
@@ -30,31 +30,6 @@ OAuth 2.0, OpenID Connect and flexible security rules to control user access to 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
