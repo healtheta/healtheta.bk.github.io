@@ -1,6 +1,6 @@
-# Introduction
+# Getting Started
 
-Healtheta is a secure, fast healthcare interoperability platform for your modern web and mobile healthcare applications, patient engagement solutions, telemedicine platforms, care coordination systems, healthcare based data analytics products and electronic health records management solution. We take pride in developing a platform and full suite solution which is designed interms of security and privacy from ground up.
+HealTheta helps you to create health care applications and enables interoperability between various healthcare systems using FHIR API standard. It is believed that the future of healthcare applications will interface using fast health care interoperability resources. FHIR standardizes a RESTful interface for hundreds of clinical objects spanning Patients, Claims, Providers, Medications, etc. On top of this, HealTheta enables apps to plug into hundreds of health system locations using OAuth2 and EHR standards, so teams can embed their app within the EHR and authorize access to patient data. Typical standardization of this technology involves many facets including data structure, version tracking, methods of autorization, search APIs. Additionally HealTheta enables FHIR provenance on blockchain based ledger technology. HealTheta's purpose and objective is to help app developers a jump start by providing all functionalties such as, data storage, Application Programming Interfaces, Privacy and Security so the team can focus on adding value to their end product,
 
 ## Anatomy
 
