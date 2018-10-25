@@ -21,23 +21,68 @@ HealTheta's vision of substitutable healthcare applications holds many benefits 
 
 * * *
 
-## Anatomy
+# Architecture
 
 Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
 
-![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
+![Branching](https://user-images.githubusercontent.com/43714632/47506914-b6e1b100-d88e-11e8-9c59-8a9531a79412.jpg)
 
+## Resource Engine
+Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
+
+## Privacy & Security Engine
+Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
+
+## Inteligence Engine
+Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
 
 * * *
 
-## FHIR API
+# API
+## Foundation API
 
 | Module        | Description          | Detail |
 |:-------------|:------------------|:------|
-| Patient           | Patient API | [Link to another page](./another-page.html).  |
-| Pracitioner | Practitioner API   | [Link to another page](./another-page.html).  |
-| Organization           | Organization API     | [Link to another page](./another-page.html).   |
-| Condition          | Condition API | [Link to another page](./another-page.html). |
+| Patient           | Patient API | [here](./another-page.html).  |
+| Pracitioner | Practitioner API   | [here](./another-page.html).  |
+| Organization           | Organization API     | [here](./another-page.html).   |
+| Condition          | Condition API | [here](./another-page.html). |
+| Observation          | Observation API | [here](./another-page.html). |
+| Healthcare Service          | Observation API | [here](./another-page.html). |
+
+## Base API
+
+| Module        | Description          | Detail |
+|:-------------|:------------------|:------|
+| Patient           | Patient API | [here](./another-page.html).  |
+| Pracitioner | Practitioner API   | [here](./another-page.html).  |
+| Organization           | Organization API     | [here](./another-page.html).   |
+| Condition          | Condition API | [here](./another-page.html). |
+| Observation          | Observation API | [here](./another-page.html). |
+| Healthcare Service          | Observation API | [here](./another-page.html). |
+
+## Clinical API
+
+| Module        | Description          | Detail |
+|:-------------|:------------------|:------|
+| Patient           | Patient API | [here](./another-page.html).  |
+| Pracitioner | Practitioner API   | [here](./another-page.html).  |
+| Organization           | Organization API     | [here](./another-page.html).   |
+| Condition          | Condition API | [here](./another-page.html). |
+| Observation          | Observation API | [here](./another-page.html). |
+| Healthcare Service          | Observation API | [here](./another-page.html). |
+
+## Financial API
+
+| Module        | Description          | Detail |
+|:-------------|:------------------|:------|
+| Patient           | Patient API | [here](./another-page.html).  |
+| Pracitioner | Practitioner API   | [here](./another-page.html).  |
+| Organization           | Organization API     | [here](./another-page.html).   |
+| Condition          | Condition API | [here](./another-page.html). |
+| Observation          | Observation API | [here](./another-page.html). |
+| Healthcare Service          | Observation API | [here](./another-page.html). |
+
 
 
 * * *
