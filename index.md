@@ -58,7 +58,6 @@ Consent directive management microservice allows patients to determine, through 
 <TODO>
 
 ## Inteligence Engine
-### Comming Soon!
 
 * * *
 
