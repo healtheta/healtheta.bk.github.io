@@ -43,14 +43,22 @@ The Resource Engine is built on pico-services architecture on top of micro-servi
 - Granual management of access on object level
 
 ## Privacy & Security Engine
-Privacy and Security Engine provide basic security services for our resource and intelligence engine. It is encompassed of three components. Consent directive management microservice allows patients to determine, through an online consent process, which health information they would like to share and not share with their primary and specialty health care providers. Consent Dirctive Management service is built keeping in following in mind,
+Privacy and Security Engine provide basic security services for our resource and intelligence engine. It is encompassed of three components. 
+### Consent Directive Management Service
+Consent directive management microservice allows patients to determine, through an online consent process, which health information they would like to share and not share with their primary and specialty health care providers. Consent Dirctive Management service is built keeping in following in mind,
 - Developed to meet the need for patients to have meaningful choices to share their protected behavioral healthcare information
 - Should be able to integrate with existing electronic health record (EHR) and health information exchange (HIE) systems using interoperability standards
 - Supports federal and state requirements related to protected health information, such as 42 CFR Part 2
 - Puts control of health information exchange in the hands the person who has the right to decide who has access to his or her data: the patient
 
+### Identity & Access Control Service
+<TODO>
+
+### Redact & Anonymity Service
+<TODO>
+
 ## Inteligence Engine
-###Comming Soon!
+### Comming Soon!
 
 * * *
 
