@@ -1,45 +1,56 @@
 # Introduction
 
-Healtheta is a Fast Healthcare Interoperability platform for your modern web and mobile healthcare applications, patient engagement solutions, telemedicine platforms, care coordination systems, healthcare data analytics products, cloud electronic health records, clinical data repositories, and more.
+Healtheta is a Secure, Fast Healthcare Interoperability platform for your modern web and mobile healthcare applications, patient engagement solutions, telemedicine platforms, care coordination systems, healthcare based data analytics products, electronic health records, clinical data repositories. We take pride in developing a platform and full suite solution which is designed interms of security and privacy from ground up.
 
 ## Anatomy
 
-Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Server, Reference Applications  and irreversible blockchain based transaction/audit ledger to meet your unique healthcare application development needs.
+Healtheta gives you FHIR data storage with the power of SQ or NoSQL, RESTful FHIR APIs, an API Gateway, Privacy and Security Platform with irreversible block-chain based transaction/audit ledger. Healtheta also provides reference application implementation to ease the commitment of application developers.
 
+## Resource Server
+Resource server is built on the notion of picoservices; We would like to take pride in introducing the concept of picoservices on top of microservices architecutre. The fine-grained granularity in controlling each services at a pico-service architecture enables our solution to be one of the fore-front runners in implementing in-built security at an indivudual API level. The resource server is composed of following parts
+
+### Edge-Server Gateway
+If your system consists of multiple services, you can use a unified access layer to manage security and routing between them.
 ![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
-### FHIP Core
-FHIP Core is built on the notion of picoservices; We would like to take pride in introducing the concept of picoservices on top of microservices architecutre. This enables us to intrdoduce fine grained security and analytical feature in-built from ground up of the design process. 
-
-### Edge Gateway
+### Fine-grained Microservices
 If your system consists of multiple services, you can use a unified access layer to manage security and routing between them.
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
-### Healthcare P & S Platform
-Our Consent Directive Management Solution enables patients  to determine through an online secure consent process, which health information they would like to share and not share with their primary and speciality health care providers. This has been developed keeping following in mind,
-- Able to make meaningful choices to share their protected behavioral healthcare information
-- Confirms to standards and procedures practiced throughout the world
-- Give control of health information exchange in the hands of the person who has the right to decide who can access his/her data 
-
-OAuth 2.0, OpenID Connect and flexible security rules to control user access to healthcare application data.
+### Granular Pico-services
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
 * * *
 
-### Security And Access Control
+## Privacy and Security Platform
+Our privacy and security platform is composed of following,
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
-OAuth 2.0, OpenID Connect and flexible security rules to control user access to healthcare application data.
+### Identity and Access Management
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
+
+### Consent Directive Management
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
+
+### Irreversible Audit/Trail Ledger
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
+
+### Redact and Annonymizer Engine
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
 
+* * *
+
+## FHIR API
+
+| Module        | Description          | Detail |
+|:-------------|:------------------|:------|
+| Patient           | Patient API | [Link to another page](./another-page.html).  |
+| Pracitioner | Practitioner API   | [Link to another page](./another-page.html).  |
+| Organization           | Organization API     | [Link to another page](./another-page.html).   |
+| Condition          | Condition API | [Link to another page](./another-page.html). |
 
 
-[Link](url) and ![Image](src)
-```
+* * *
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/healtheta/healtheta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
