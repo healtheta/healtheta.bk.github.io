@@ -6,7 +6,7 @@ Healtheta is a Fast Healthcare Interoperability platform for your modern web and
 
 Healtheta gives you FHIR data storage with the power of SQL, RESTful FHIR APIs, an API Gateway, access control & security modules, Reference Application Moduels and Authorative activity ledger to meet your unique healthcare application development needs.
 
-![Branching](https://www.apiacademy.co/assets/2016/09/1-microservices-gateway-v3.png)
+![Branching](https://user-images.githubusercontent.com/43714632/47487379-f7760600-d85f-11e8-827e-0727bb01dc7a.jpg)
 
 ### FHIP Core
 FHIP Core is built on the notion of picoservices; We would like to take pride in introducing the concept of picoservices on top of microservices architecutre. This enables us to intrdoduce fine grained security and analytical feature in-built from ground up of the design process. 
